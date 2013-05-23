@@ -1,3 +1,7 @@
-$ cat .gitignore
 *.class
 *~
+patrones/build
+patrones/dist
+patrones/nbproject/build
+patrones/*
+patrones/nbproject/*
