@@ -1,1 +1,1 @@
-Este repositorio tiene los códigos de los videotutoriales
+En esta rama del repositorio he intentando reorganizar los ejemplo de patrones de diseño sofware.
